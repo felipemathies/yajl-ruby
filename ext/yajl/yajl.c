@@ -35,7 +35,7 @@
 #include "yajl_parser.h"
 #include "yajl_alloc.h"
 
-#include <cstdlib.h>
+#include <stdlib.h>
 #include <string.h>
 #include <assert.h>
 
